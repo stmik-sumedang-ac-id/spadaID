@@ -15,3 +15,7 @@ A Moodle admin tool adding Spada Indonesia to your Moodle site.
 - exclude tracking of admin users
 
 ## Supported Spada Indonesia Tools 
+
+![ss](img/Screen%20Shot%202021-07-15%20at%203.48.07%20PM.png)
+
+![ss2](img/Screen%20Shot%202021-07-21%20at%2011.38.17%20AM.png)
