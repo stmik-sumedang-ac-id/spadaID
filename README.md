@@ -13,6 +13,7 @@ A Moodle admin tool adding Spada Indonesia to your Moodle site.
 - multiple unlimited instances of different types of analytics in one Moodle site
 - tracking code can go to Header, Top of body or Footer of any page
 - exclude tracking of admin users
+- Support moodle v.39
 
 ## Supported Spada Indonesia Tools 
 
